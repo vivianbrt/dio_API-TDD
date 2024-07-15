@@ -143,9 +143,6 @@ Vamos utilizar Pyenv + Poetry, link de como preparar o ambiente abaixo:
 ## O que é TDD?
 TDD é uma sigla para `Test Driven Development`, ou Desenvolvimento Orientado a Testes. A ideia do TDD é que você trabalhe em ciclos.
 
-### Ciclo do TDD
-![C4](/docs/img/img-tdd.png)
-
 ### Vantagens do TDD
 - entregar software de qualidade;
 - testar procurando possíveis falhas;
